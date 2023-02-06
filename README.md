@@ -1,1 +1,2 @@
-# String-Task-Irene
+# Name: Irene
+# Partner: Jillian
